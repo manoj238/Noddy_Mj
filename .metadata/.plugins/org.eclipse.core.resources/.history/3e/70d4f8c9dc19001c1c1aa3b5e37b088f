@@ -1,0 +1,9 @@
+package com.te.multithreading;
+
+public class MultiThreadDemo extends Thread{
+
+	@Override
+	public void run() {
+		
+	}
+}

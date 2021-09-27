@@ -1,0 +1,11 @@
+package com.te.practic;
+
+public class Customer extends Thread {
+	GoDown down;
+	int items;
+	public Customer(GoDown down, int items) {
+		this.down = down;
+		this.items = items;
+	}
+	
+}

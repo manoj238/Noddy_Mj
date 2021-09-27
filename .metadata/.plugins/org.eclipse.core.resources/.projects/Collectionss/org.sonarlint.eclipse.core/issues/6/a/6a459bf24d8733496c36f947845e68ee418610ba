@@ -1,0 +1,5 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Æ‹Ù√8µŒ¶è¿/HÙRMAJORZ
+CODE_SMELL
+ä
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‰†πÄ8≤ä≈è¿/HÇRMAJORZBUG

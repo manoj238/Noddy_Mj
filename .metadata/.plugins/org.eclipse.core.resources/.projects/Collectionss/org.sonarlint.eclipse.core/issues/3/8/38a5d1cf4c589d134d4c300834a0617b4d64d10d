@@ -1,0 +1,12 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ8ˆ¦ô¶À/HÐ#RMAJORZ
+CODE_SMELL
+q
+java:S2134"@Don't extend "Thread", since the "run" method is not overridden.(£ãÑÊùÿÿÿÿ8÷â·”À/HÑ#RMAJORZBUG
+}
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ô”À¨üÿÿÿÿ8Š›Ú”À/HÒ#RMINORZ
+CODE_SMELL
+Š
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8÷ÁÔ”À/HÓ#RMAJORZBUG
+v
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8Š›Ú”À/HÔ#RBLOCKERZBUG

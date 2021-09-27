@@ -1,0 +1,20 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(âÙÍù8úÙ²àÀ/H«#RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ç¨ãÏøÿÿÿÿ8úÙ²àÀ/H¬#RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÉÕ’áÀ/H­#RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÜ´È8Ç¾àÀ/H®#RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(şÿòÄÿÿÿÿÿ8ÑÜ–áÀ/H¯#RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‹¬şşÿÿÿÿ8Öü—áÀ/H°#RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ç¨ãÏøÿÿÿÿ8ÉäàÀ/H±#RMAJORZ
+CODE_SMELL
+p
+java:S1197"8Move the array designator from the variable to the type.(©«Ùõúÿÿÿÿ8¶æ†àÀ/H²#RMINORZ
+CODE_SMELL
+Š	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Â¨•ù8º±œàÀ/H³#RMAJORZ
+CODE_SMELL

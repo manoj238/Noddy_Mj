@@ -1,0 +1,12 @@
+package com.technoelevate;
+
+import java.util.TreeSet;
+
+public class Challenge13 {
+
+	public void numberToWords(int num) {		
+		String res[]={"","One","Two","Three","Four","Five","Six","Seven","Eight",
+				"Nine","Ten","Eleven","Twelve","Thirteen","Fourteen","Fifteen","Sixteen",
+				"Seventeen","Eighteen","Ninetten"};
+	}
+}

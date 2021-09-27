@@ -1,0 +1,21 @@
+package com.te.practicesession;
+
+import java.util.Iterator;
+
+import javax.swing.plaf.basic.BasicInternalFrameTitlePane.IconifyAction;
+
+public class Practice1 {
+	public static void main(String[] args) {
+		String string = "manojvivek";
+		String charecterString = "";
+		String duplicateString = "";
+		for (int i = 0; i < string.length(); i++) {
+			charecterString += string.charAt(i);
+			duplicateString=charecterString;
+		}
+		if(!charecterString.contains(duplicateString)) {
+			
+		}
+		
+	}
+}

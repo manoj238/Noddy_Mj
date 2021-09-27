@@ -1,0 +1,8 @@
+package com.te.practic;
+
+public class GoDown {
+	int items;
+	public void store(int x) {
+		
+	}
+}

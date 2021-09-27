@@ -1,0 +1,9 @@
+package com.te.practicesession;
+
+public class DuplicateDemo {
+
+	public static void main(String[] args) {
+		String string = "manojamanma"
+	}
+
+}

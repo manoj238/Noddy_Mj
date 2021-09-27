@@ -1,0 +1,16 @@
+package com.te.mypracticeprogms;
+
+public class LowerCaseToUpperCase {
+
+	public static void main(String[] args) {
+		String string = "heLLoWoRlDHowArEYOuaLl";
+		char ch[] = string.toCharArray();
+		String string2 = "";
+		for(int i=0;i<ch.length;i++) {
+			if(ch[i]>= 'a' && ch[i]<='z') {
+				string = String+
+			}
+		}
+	}
+
+}

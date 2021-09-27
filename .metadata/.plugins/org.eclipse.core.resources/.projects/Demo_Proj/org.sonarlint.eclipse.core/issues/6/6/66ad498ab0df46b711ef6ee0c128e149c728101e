@@ -1,0 +1,9 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ†¤Æ8ÁÑæ˜¾/Hå"RMAJORZ
+CODE_SMELL
+k	java:S106	"9Replace this use of System.out or System.err by a logger.(úª‹‰8ÁÑæ˜¾/Hæ"RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(šÇé¬ÿÿÿÿÿ8•è˜¾/Hç"RMAJORZ
+CODE_SMELL
+w
+java:S3518"CMake sure this expression can't be zero before doing this division.(šÇé¬ÿÿÿÿÿ8ïı™¾/Hè"RCRITICALZBUG

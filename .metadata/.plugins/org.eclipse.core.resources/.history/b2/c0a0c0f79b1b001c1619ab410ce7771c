@@ -1,0 +1,5 @@
+package com.techno.collectionmain;
+
+public interface MyInter {
+
+}

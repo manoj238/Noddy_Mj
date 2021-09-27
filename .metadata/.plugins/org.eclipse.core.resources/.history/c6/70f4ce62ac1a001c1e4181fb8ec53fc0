@@ -1,0 +1,14 @@
+package com.te.multithreading;
+
+public class MyDemo1 {
+	
+	public void getMessage() {
+		System.out.println("Non static methods messge");
+	}
+	
+	public static void main(String[] args) {
+		new MyDemo1();
+		Sayable sayable = MyDemo1::getMessage;
+	}
+
+}

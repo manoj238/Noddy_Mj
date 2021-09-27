@@ -1,0 +1,11 @@
+package com.te.practicesession;
+
+public class MianTest {
+
+	public static void main(String[] args) {
+		SyncronizeDemo demo = new SyncronizeDemo();
+		
+		Thread thread = new Test2(110, 120, demo);
+	}
+
+}

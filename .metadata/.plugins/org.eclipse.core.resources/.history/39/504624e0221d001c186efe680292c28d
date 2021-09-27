@@ -1,0 +1,37 @@
+package com.te.junitdemo;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+
+public class MathUtilTest1 {
+	@Test
+	public void addTest() {
+		MathUtils mathUtils = new MathUtils();
+		int expected = 10;
+		int actual = mathUtils.add(6, 4);
+		if(actual!=expected) {
+			System.out.println("Failure");
+		}else {
+			System.out.println("Success");
+		}
+		
+		assertEquals(10, mathUtils.add(5, 5),"this method adds two integers");
+		System.out.println("1st");
+	}
+	
+	@Test
+	public void areaTest() {
+		MathUtils mathUtils = new MathUtils();
+		double expected = 3.141592653589793;
+		double actual = mathUtils.areaOfCircle(1);
+		assertEquals(expected, actual);
+		System.out.println("2nd");
+	}
+	
+	@BeforeEach
+	public void myMethod() {
+		System.out.println("hello");
+	}
+}

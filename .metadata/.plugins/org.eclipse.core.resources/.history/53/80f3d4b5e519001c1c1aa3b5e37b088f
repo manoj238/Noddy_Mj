@@ -1,0 +1,9 @@
+package com.te.multithreading;
+
+public class MainThreadDemo {
+
+	public static void main(String[] args) {
+		Runnable runnable = new ThreadDemo();
+		Thread thread = new Thread(runnable);
+	}
+}

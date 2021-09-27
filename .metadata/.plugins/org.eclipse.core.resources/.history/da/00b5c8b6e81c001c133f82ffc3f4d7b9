@@ -1,0 +1,5 @@
+package com.te.mypracticeprogms;
+
+public class Thread1 extends Thread{
+
+}

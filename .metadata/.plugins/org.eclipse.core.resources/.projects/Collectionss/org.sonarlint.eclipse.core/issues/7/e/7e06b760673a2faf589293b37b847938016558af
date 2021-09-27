@@ -1,0 +1,11 @@
+
+O
+java:S1643"Use a StringBuilder instead.(¡Éêû8ŠìúŞÀ/H¦#RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(°äºÍ8Ä«€ßÀ/H§#RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(“½Âg8ÃƒßÀ/H¨#RMAJORZ
+CODE_SMELL
+
+java:S3973"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ8àÜŠßÀ/H©#RCRITICALZ
+CODE_SMELL

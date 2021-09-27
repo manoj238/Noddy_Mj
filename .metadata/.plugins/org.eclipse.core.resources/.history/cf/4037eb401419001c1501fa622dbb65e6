@@ -1,0 +1,7 @@
+package com.te.practicesession;
+public class Practice1 {
+	public static void main(String[] args) {
+		String string = "manojvivek";
+		System.out.println(string.charAt(0));
+	}
+}

@@ -1,0 +1,10 @@
+package com.te.practicesession;
+
+public class ReverseString {
+	
+	public static void main(String[] args) {
+		String s = "Manoj Vivek";
+		int len = s.length();
+	}
+
+}

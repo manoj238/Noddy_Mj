@@ -1,0 +1,11 @@
+package com.technoelevate;
+
+public class Challenge12 {
+	
+	public void  printFactors(int fact) {
+		int res=fact;
+		for(int i=1;i<res;i++) {
+			res=res*i;
+		}
+	}
+}

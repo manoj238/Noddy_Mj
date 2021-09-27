@@ -1,0 +1,12 @@
+
+[
+java:S1125/"(Remove the unnecessary boolean literals.(ä­á…8«òœò¾/H†%RMINORZ
+CODE_SMELL
+
+java:S22722"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(«ÞÄ•ùÿÿÿÿ8¢ÜÄñ¾/Hˆ%RMINORZBUG
+g
+java:S3740+"/Provide the parametrized type for this generic.(¤ñ±«øÿÿÿÿ8¢ÜÄñ¾/H‰%RMAJORZ
+CODE_SMELL
+T
+java:S1643<"Use a StringBuilder instead.(Åß£ìøÿÿÿÿ8ÖÓóð¾/HŠ%RMINORZ
+CODE_SMELL

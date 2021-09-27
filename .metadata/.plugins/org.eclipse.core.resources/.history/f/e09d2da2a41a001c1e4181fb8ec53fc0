@@ -1,0 +1,11 @@
+package com.te.multithreading;
+
+import java.util.List;
+
+public class ForEachMethodDemo {
+
+	public static void main(String[] args) {
+		List<String> list = 
+	}
+
+}

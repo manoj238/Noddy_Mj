@@ -1,0 +1,9 @@
+package com.te.practicesession;
+
+public class SyncronizeDemo {
+	public void print() {
+		for (int i = 100; i < 150; i++) {
+			
+		}
+	}
+}

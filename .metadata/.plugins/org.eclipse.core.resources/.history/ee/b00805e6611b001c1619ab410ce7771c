@@ -1,0 +1,15 @@
+package com.te.practicesession;
+
+public class PalinString {
+
+	public static void main(String[] args) {
+		String string = "dad";
+		String tempString = string;
+		String revString = "" ;
+		for (int i = 0; i < string.length(); i++) {
+			revString=revString+i;
+		}
+		if()
+	}
+
+}

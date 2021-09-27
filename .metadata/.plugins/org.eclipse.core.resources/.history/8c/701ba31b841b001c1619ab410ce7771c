@@ -1,0 +1,6 @@
+package com.te.practic;
+
+public class Manufacture {
+	GoDown down;
+	int items;
+}

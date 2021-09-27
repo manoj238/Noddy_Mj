@@ -1,0 +1,9 @@
+
+[
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕH²RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(õììÇûÿÿÿÿH±RMAJORZ
+CODE_SMELL
+`
+java:S1481"4Remove this unused "charecterString" local variable.(£ï”¸H°RMINORZ
+CODE_SMELL

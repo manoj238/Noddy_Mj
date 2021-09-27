@@ -1,0 +1,5 @@
+package com.te.customexception;
+
+public class InvalidBalanceException extends RuntimeException {
+	String msgString;
+}

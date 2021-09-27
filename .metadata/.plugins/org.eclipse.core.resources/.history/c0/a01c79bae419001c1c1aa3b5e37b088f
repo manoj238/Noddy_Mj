@@ -1,0 +1,10 @@
+package com.te.multithreading;
+
+public class ThreadDemo implements Runnable {
+
+	@Override
+	public void run() {
+
+	}
+
+}

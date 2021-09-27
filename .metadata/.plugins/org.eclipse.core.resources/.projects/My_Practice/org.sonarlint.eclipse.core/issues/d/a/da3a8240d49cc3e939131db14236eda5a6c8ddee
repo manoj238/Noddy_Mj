@@ -1,0 +1,9 @@
+
+f
+java:S1121".Extract the assignment out of this expression.(ö°„çûÿÿÿÿ8…Ö²Á/HÎ$RMAJORZ
+CODE_SMELL
+
+java:S4165"fRemove this useless assignment; "position" already holds the assigned value along all execution paths.(ö°„çûÿÿÿÿ8…Ö²Á/HÏ$RMAJORZ
+CODE_SMELL
+`
+java:S1656"/Remove or correct this useless self-assignment.(ö°„çûÿÿÿÿ8…Ö²Á/HÍ$RMAJORZBUG

@@ -1,0 +1,31 @@
+
+k	java:S106%"9Replace this use of System.out or System.err by a logger.(„íí8ªŠË¾/H–#RMAJORZ
+CODE_SMELL
+™
+java:S41656"aRemove this useless assignment; "res" already holds the assigned value along all execution paths.(™ÚÜ¦ùÿÿÿÿ8«âÈèÀ/H—#RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(Àå¾i8ªŠË¾/H”#RMAJORZ
+CODE_SMELL
+n	java:S125("<This block of commented-out lines of code should be removed.(åÖê”8«âÈèÀ/H‡#RMAJORZ
+CODE_SMELL
+k	java:S1061"9Replace this use of System.out or System.err by a logger.(Õÿ»é8«âÈèÀ/H…#RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ùş©üÿÿÿÿ8ªŠË¾/H™#RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(œ’Ñ8ï³õÊ¾/H›#RMAJORZ
+CODE_SMELL
+k	java:S106""9Replace this use of System.out or System.err by a logger.(¬àıœ8ö‘«Ë¾/H†#RMAJORZ
+CODE_SMELL
+ˆ
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Çµí‘8‚Üåè¾/H‰#RCRITICALZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ä¦çç8É ŠË¾/H•#RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(„íí8‚Üåè¾/H˜#RMAJORZ
+CODE_SMELL
+p	java:S106-"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ8ºí¢Ë¾/Hˆ#RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(„íí8ØİË¾/Hš#RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(„íí8ˆå©Ë¾/H“#RMAJORZ
+CODE_SMELL

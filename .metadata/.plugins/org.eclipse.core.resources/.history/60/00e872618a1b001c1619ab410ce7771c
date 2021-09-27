@@ -1,0 +1,18 @@
+package com.te.maps;
+
+import java.util.*;
+
+public class TreeMapDemo {
+
+	public static void main(String[] args) {
+		Map<Integer, String> map = new TreeMap();
+		map.put(12, "Orange");
+		map.put(12, "Apple");
+		map.put(12, "Grapes");
+		map.put(12, "Mango");
+		map.put(12, "Kiwi");
+		map.put(12, "Orange");
+		
+	}
+
+}

@@ -1,0 +1,14 @@
+package com.te.mypracticeprogms;
+
+public class MyArrayDemo {
+	private Object[] array;
+	private int position;
+ 	
+	public MyArrayDemo(int size) {
+		array = new Object[size];
+	}
+	
+	public void add(int ele) {
+		array[position++]=ele;
+	}
+}

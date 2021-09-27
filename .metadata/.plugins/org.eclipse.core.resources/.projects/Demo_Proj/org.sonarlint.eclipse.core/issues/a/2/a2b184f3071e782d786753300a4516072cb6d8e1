@@ -1,0 +1,12 @@
+
+p	java:S106	"9Replace this use of System.out or System.err by a logger.(Ÿ‹™Ãüÿÿÿÿ8Ë™Šš¾/Hé"RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ã…áşÿÿÿÿ8È‘Œš¾/Hê"RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(˜ÿ¤ûÿÿÿÿ8ªš¾/Hë"RMAJORZ
+CODE_SMELL
+t
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(¶ ãÉúÿÿÿÿHì"RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(–çŸó8õ ’š¾/Hí"RMAJORZ
+CODE_SMELL

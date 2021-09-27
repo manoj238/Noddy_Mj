@@ -1,0 +1,24 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(õôÿÏ8ßÓ¢Î¼/HìRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(„¥˜İşÿÿÿÿ8“İ Î¼/HíRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(Ü±àg8“İ Î¼/HîRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ŸŠúåùÿÿÿÿ8“İ Î¼/HïRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÊ šùÿÿÿÿ8“İ Î¼/HğRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ï©¨ä8“İ Î¼/HñRMAJORZ
+CODE_SMELL
+r
+java:S1118":Add a private constructor to hide the implicit public one.(ñŸş£úÿÿÿÿ8ã¨úÍ¼/HòRMAJORZ
+CODE_SMELL
+p	java:S106	"9Replace this use of System.out or System.err by a logger.(À»æÄıÿÿÿÿ8“İ Î¼/HóRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(úÄûè8“İ Î¼/HôRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(„ç¶úÿÿÿÿ8“İ Î¼/HõRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÕÑÍÕıÿÿÿÿ8“İ Î¼/HöRMAJORZ
+CODE_SMELL

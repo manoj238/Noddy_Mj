@@ -1,0 +1,9 @@
+package com.te.multithreading;
+
+public class RunnableDemoLam {
+
+	public static void main(String[] args) {
+		Runnable runnable = () -> System.out.println("Runnable interface running");
+	}
+
+}

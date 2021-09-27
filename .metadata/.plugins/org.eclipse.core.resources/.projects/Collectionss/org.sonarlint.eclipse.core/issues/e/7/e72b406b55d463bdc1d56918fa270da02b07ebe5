@@ -1,0 +1,16 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¥²˜Å8À‚ÓçÀ/HƒRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ö ŸÒ8ÕÿØçÀ/HˆRMAJORZ
+CODE_SMELL
+g
+java:S3740	"/Provide the parametrized type for this generic.(½£»Ûúÿÿÿÿ8±šçÀ/H¤RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(µˆœÑ8³ã¨çÀ/H¾RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‰àÆ8¼«¦çÀ/HºRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(çÁ×ú8¬ªçÀ/HÃRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(òÊÆ…ùÿÿÿÿ8‘åáçÀ/H•RMAJORZ
+CODE_SMELL

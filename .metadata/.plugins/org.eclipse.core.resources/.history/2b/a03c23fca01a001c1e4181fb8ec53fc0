@@ -1,0 +1,5 @@
+package com.te.multithreading;
+
+public class DemoA extends Thread{
+
+}

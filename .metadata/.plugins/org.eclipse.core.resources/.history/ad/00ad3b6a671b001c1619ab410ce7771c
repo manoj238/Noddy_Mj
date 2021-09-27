@@ -1,0 +1,22 @@
+package com.te.practicesession;
+
+public class DuplicateEle {
+
+	public static void main(String[] args) {
+		String string = "superfragalisticexpialidoshious";
+		
+		char ch[] = string.toCharArray();
+		for (int i = 0; i < string.length(); i++) {
+			for (int j = i+1; j < string.length(); j++) {
+				if(ch[i]==ch[j]) {
+					char temp = ch[j];
+					ch[j] = ch[string.length()-1];
+					ch[string.length()-1] = temp;
+					j--;
+				}
+			}
+		}
+		System.out.println("Total dupilcate charecters");
+	}
+
+}

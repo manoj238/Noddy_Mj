@@ -1,0 +1,13 @@
+
+p
+java:S1197	"8Move the array designator from the variable to the type.(¤ğØşÿÿÿÿ8ªçÓŞÀ/HÛ"RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(½»™Ëÿÿÿÿÿ8ÓÁêŞÀ/HŞ"RMAJORZ
+CODE_SMELL
+k
+java:S1197"8Move the array designator from the variable to the type.(š’8¤ıØŞÀ/HÚ"RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(×•œ²8¤ıØŞÀ/Hß"RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(§íØ½şÿÿÿÿ8ÕÙèŞÀ/HÜ"RMAJORZ
+CODE_SMELL

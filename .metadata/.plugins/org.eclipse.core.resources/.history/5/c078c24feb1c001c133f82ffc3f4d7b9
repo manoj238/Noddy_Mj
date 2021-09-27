@@ -1,0 +1,10 @@
+package com.te.mypracticeprogms;
+
+public class LowerCaseToUpperCase {
+
+	public static void main(String[] args) {
+		String string = "heLLoWoRlDHowArEYOuaLl";
+		char ch[] = string.toCharArray();
+	}
+
+}

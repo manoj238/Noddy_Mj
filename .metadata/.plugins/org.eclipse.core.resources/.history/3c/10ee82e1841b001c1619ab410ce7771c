@@ -1,0 +1,24 @@
+package com.te.practic;
+
+public class GoDown {
+	int products;
+	public void store(int items) {
+		this.products+=items;
+		System.out.println("items stored");
+	}
+	public GoDown(int items) {
+		super();
+		this.products = items;
+	}
+	
+	public void purchase(int puritems) {
+		while(puritems>products) {
+			System.out.println("The items you want purchase is out of stock please wait....!!!");
+			try {
+				this.wait();
+			} catch (InterruptedException e) {
+				e.printStackTrace();
+			}
+		}
+	}
+}

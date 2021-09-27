@@ -1,0 +1,12 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ8òè£î½/H€#RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‰œÙ8£Ğ§î½/H#RMAJORZ
+CODE_SMELL
+^
+java:S1144"+Remove this unused private "getPen" method.(ş¼÷Ë8şë©î½/H‚#RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¤ˆü8í·©î½/Hƒ#RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ8ùÁ¥î½/H„#RMAJORZ
+CODE_SMELL

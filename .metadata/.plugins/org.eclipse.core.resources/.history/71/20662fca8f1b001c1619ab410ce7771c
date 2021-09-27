@@ -1,0 +1,28 @@
+package com.te.maps;
+
+import java.util.*;
+
+public class MapDemo {
+
+	public static void main(String[] args) {
+		Map<Integer,String> map = new HashMap<>();
+		System.out.println(map.put(23, "Tiger"));
+		System.out.println(map.put(14, "Lion"));
+		System.out.println(map.put(55, "Deer"));
+		System.out.println(map.put(82, "Chetha"));
+		System.out.println(map.put(34, "Leapord"));
+
+		System.out.println(map);
+		System.out.println(map.keySet());
+		System.out.println(map.values());
+		Set<java.util.Map.Entry<Integer, String>> entries = map.entrySet();
+		System.out.println(entries);
+		for (java.util.Map.Entry<Integer, String> entry : entries) {
+			System.out.println(entry.getKey()+" "+entry.getValue());
+		}
+		
+		Set set = new TreeSet(map) {
+			
+		}
+	}
+}

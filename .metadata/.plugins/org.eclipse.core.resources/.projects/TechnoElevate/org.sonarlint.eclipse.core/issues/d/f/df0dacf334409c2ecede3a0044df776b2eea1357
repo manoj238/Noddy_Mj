@@ -1,0 +1,9 @@
+
+…	java:S116	"URename this field "contact_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¥‘ıÿÿÿÿH²RMINORZ
+CODE_SMELL
+q
+java:S3400"9Remove this method and declare a constant for this value.(ğÆÖšûÿÿÿÿ8ú¥É¼/H³RMINORZ
+CODE_SMELL
+	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½øÀÛÿÿÿÿÿH´RMINORZ
+CODE_SMELL

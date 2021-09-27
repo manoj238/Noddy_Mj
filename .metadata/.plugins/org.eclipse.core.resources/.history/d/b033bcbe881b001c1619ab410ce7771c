@@ -1,0 +1,31 @@
+package com.te.practic;
+
+public class GoDown {
+	int products;
+
+	synchronized public void store(int items) {
+		this.products += items;
+		System.out.println("items stored"+Thread.currentThread().getName());
+		this.notify();
+	}
+
+	public GoDown(int items) {
+		this.products = items;
+	}
+
+	synchronized public void purchase(int puritems) {
+		while (puritems > products) {
+			System.out.println("The items you want purchase is out of stock please wait....!!!"+Thread.currentThread().getName());
+
+			try {
+				this.wait();
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+
+			products -= puritems;
+			System.out.println("Items purchased Succesfully"+Thread.currentThread().getName());
+		}
+	}
+}

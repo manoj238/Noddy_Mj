@@ -1,0 +1,20 @@
+
+‹
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Óß¬+8„éõ¾/H¸RMINORZ
+CODE_SMELL
+g
+java:S3740"/Provide the parametrized type for this generic.(ßù»ûÿÿÿÿ8™ïõ¾/H¹RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ù¬°Ôÿÿÿÿÿ8æÈøõ¾/HºRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‡¼¯õùÿÿÿÿ8æÈøõ¾/H»RMAJORZ
+CODE_SMELL
+g
+java:S3740"/Provide the parametrized type for this generic.(ßù»ûÿÿÿÿ8™ïõ¾/H¼RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(›ÂÇv8²ğõ¾/H½RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‡¼¯õùÿÿÿÿ8²ğõ¾/H¾RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‰¾Ï£8™ïõ¾/H¿RMAJORZ
+CODE_SMELL

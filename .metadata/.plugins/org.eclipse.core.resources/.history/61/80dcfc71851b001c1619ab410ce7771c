@@ -1,0 +1,10 @@
+package com.te.practic;
+
+public class Test1 {
+
+	public static void main(String[] args) {
+			GoDown down = new GoDown(100);
+			Manufacture manufacture = new Manufacture(null, 0)
+	}
+
+}

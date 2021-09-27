@@ -1,0 +1,16 @@
+package com.te.practic;
+
+public class GoDown {
+	int items;
+	public void store(int x) {
+		this.items+=x;
+	}
+	public GoDown(int items) {
+		super();
+		this.items = items;
+	}
+	
+	public void purchase(int y) {
+		if(y>items)
+	}
+}

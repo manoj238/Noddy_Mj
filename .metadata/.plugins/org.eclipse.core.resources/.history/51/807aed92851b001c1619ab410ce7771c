@@ -1,0 +1,12 @@
+package com.te.practic;
+
+public class Test1 {
+
+	public static void main(String[] args) {
+			GoDown down = new GoDown(100);
+			Manufacture manufacture = new Manufacture(down, 200);
+			
+			Customer customer = new Customer(100, down);
+	}
+
+}

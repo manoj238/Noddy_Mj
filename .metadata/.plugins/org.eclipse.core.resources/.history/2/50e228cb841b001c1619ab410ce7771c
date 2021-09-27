@@ -1,0 +1,19 @@
+package com.te.practic;
+
+public class GoDown {
+	int products;
+	public void store(int items) {
+		this.products+=items;
+		System.out.println("items stored");
+	}
+	public GoDown(int items) {
+		super();
+		this.products = items;
+	}
+	
+	public void purchase(int puritems) {
+		while(puritems>products) {
+			
+		}
+	}
+}

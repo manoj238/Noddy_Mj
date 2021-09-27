@@ -1,0 +1,26 @@
+package com.technoelevate;
+
+import java.util.TreeSet;
+
+public class Challenge13 {
+
+	public static void main(String arg[])
+	{
+		numToWord(110);
+	}
+
+	static void numToWord(int n)
+	{
+		String one[]={"","One","Two","Three","Four","Five","Six","Seven","Eight","Nine","Ten","Eleven","Twelve","Thirteen","Fourteen","Fifteen","Sixteen","Seventeen","Eighteen","Ninetten"};
+		String two[]={"","","Twenty","Thirty","Fourty","Fifty","Sixty","Seventy","Eighty","Ninty"};
+		if(n<20)
+		{
+			System.out.print(one);
+		}
+		else
+			System.out.print(two[]);
+
+		if(n!=0)
+			System.out.print(st+" ");
+	}
+}
